@@ -1,10 +1,12 @@
-## 1.1.0 - 2020-04-14
+## 2.0.0 - 2024-03-23
 
 ### Added
-- Support for generation of image thumbnails
+
+- Updated dependencies
+- Minimum node version is now 16
 
 ## 1.0.0 - 2020-04-12
 
 ### Added
+
 - `FirebaseAuthAdapter`
-- `FirebaseStorageAdapter`
